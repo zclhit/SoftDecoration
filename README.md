@@ -42,7 +42,7 @@ Nov.:
 
 # 沙发茶几
 
-
+[沙发购买](./sofa/sofa_spiking.md)
 
 # 餐桌
 
